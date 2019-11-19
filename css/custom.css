@@ -3,7 +3,7 @@ body {
 }
 
 p a {
-  color: blue !important;
+  color: steelblue!important;
 }
 
 .my-name {
@@ -150,3 +150,5 @@ a:active {
     margin-left: -20px;
   }
 }
+
+
